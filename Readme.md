@@ -36,7 +36,7 @@ Code of Conduct
 Snap Labs is committed to fostering a welcoming and inclusive community. Please read our CODE_OF_CONDUCT.md to learn about our expectations for behavior and how we enforce our code of conduct.
 
 License
-This project is licensed under the MIT License. See the LICENSE.md file for details.
+This project is licensed under the MIT License. See the LICENSE.md file for details.among others
 
 Acknowledgments
 We'd like to express our gratitude to all contributors, maintainers, and users who have supported Snap Labs. Your dedication and collaboration are crucial in helping us revolutionize healthcare for the better.
