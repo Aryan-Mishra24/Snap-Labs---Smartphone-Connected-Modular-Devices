@@ -39,4 +39,4 @@ License
 This project is licensed under the MIT License. See the LICENSE.md file for details.among others
 
 Acknowledgments
-We'd like to express our gratitude to all contributors, maintainers, and users who have supported Snap Labs. Your dedication and collaboration are crucial in helping us revolutionize healthcare for the better.                       FEEL FREE TO CONTRIBTE
+We'd like to express our gratitude to all contributors, maintainers, and users who have supported Snap Labs. Your dedication and collaboration are crucial in helping us revolutionize healthcare for the better.                       FEEL FREE TO CONTRIBT
